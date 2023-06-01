@@ -54,6 +54,7 @@ button:active {
 textarea {
     width: 400px;
     height: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .buttonwrap {
@@ -62,6 +63,7 @@ textarea {
 
 #name {
     margin: 25px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #result {
